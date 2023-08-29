@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632011549 source:d:\practiceprg\armstrongnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
